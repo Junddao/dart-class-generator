@@ -1,15 +1,15 @@
 {
-	"name": "du-dart-class-generator",
-	"displayName": "Junddao Data Class Generator",
+	"name": "junddao-dart-class-generator",
+	"displayName": "Junddao Dart data class generator",
 	"description": "Create Junddao dart data classes easily, fast and without writing boilerplate or running code generation.",
 	"publisher": "junddao",
-	"version": "1.0.9",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.37.0"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/betrider/dart-class-generate-extension-"
+		"url": "https://github.com/Junddao/dart-class-generator"
 	},
 	"icon": "assets/icon.png",
 	"keywords": [
@@ -20,7 +20,7 @@
 		"data class generator"
 	],
 	"author": {
-		"name": "betrider"
+		"name": "Junddao"
 	},
 	"categories": [
 		"Programming Languages",
